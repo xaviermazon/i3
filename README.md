@@ -40,9 +40,10 @@ Atajos de teclados:
 []: Significa un rango de valores
 0: Suele ser el numero 10
 Notas: Aquellos que tengan un teclado sin teclas de direcciones que usen la configuracion de vim:
-  - h = izquierda </li>
-  - j = abajo </li>
-  - k = arriba </li>
-  - l = derecha </li>
+  - h = izquierda
+  - j = abajo
+  - k = arriba
+  - l = derecha
+
 
 
