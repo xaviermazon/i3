@@ -2,13 +2,13 @@
 Mi configuración más amigable del i3wm
 
 Programas que usa el i3:
- <li> Konsole </li>
- <li> Firefox </li>
- <li> Rofi </li>
- <li> Polybar </li>
- <li> Nitrogen </li>
- <li> Dunst </li>
- <li> Picom </li>
+ - Konsole 
+ - Firefox 
+ - Rofi 
+ - Polybar 
+ - Nitrogen 
+ - Dunst 
+ - Picom 
 
 Tecla para gestionar i3: Mod4(Super/Windows)
 
