@@ -45,5 +45,6 @@ Notas: Aquellos que tengan un teclado sin teclas de direcciones que usen la conf
   - k = arriba
   - l = derecha
 
+## Repositorio oficial
 
-
+https://github.com/i3/i3
