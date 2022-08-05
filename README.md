@@ -37,9 +37,9 @@ Atajos de teclados:
   - Modo pila de ventanas: Mod4+s
   - Modo pestaña de ventanas: Mod4+w
 
-[]: Significa un rango de valores
-0: Suele ser el numero 10
-Notas: Aquellos que tengan un teclado sin teclas de direcciones que usen la configuracion de vim:
+[]: Significa un rango de valores  
+0: Suele ser el numero 10  
+Notas: Aquellos que tengan un teclado sin teclas de direcciones que usen la configuracion de vim:  
   - h = izquierda
   - j = abajo
   - k = arriba
