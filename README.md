@@ -49,11 +49,13 @@ Notas: Aquellos que tengan un teclado sin teclas de direcciones que usen la conf
   - l = derecha
 
 Interactividad con el ratón:
-  - (Click izquierdo): Abres el menu de energia del pc
-  - (Click izquierdo): Abres el menu de aplicaciones
-  - (Click derecho): Abres el menu de estilo
-  - <-{(Click izquierdo): Cambias al anterior worksapce
-  - }->(Click izquierdo): Cambias al siguiente worksapce
+  - 23fb (Click izquierdo): Abres el menu de energia del pc
+  - e77d (Click izquierdo): Abres el menu de aplicaciones
+  - e77d (Click derecho): Abres el menu de estilo
+  - <-{ (Click izquierdo): Cambias al anterior worksapce
+  - }-> (Click izquierdo): Cambias al siguiente worksapce
+
+__NOTA__: 23fb representa el simbolo de poder de energia, e77d representa el logo de debian. Para verlo podeis ir a https://www.nerdfonts.com/cheat-sheet
 
 ## Repositorio oficial
 
