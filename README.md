@@ -48,12 +48,8 @@ Notas: Aquellos que tengan un teclado sin teclas de direcciones que usen la conf
   - k = arriba
   - l = derecha
 
-Interactividad con el ratón:
-  - (Click izquierdo): Abres el menu de energia del pc
-  - (Click izquierdo): Abres el menu de aplicaciones
-  - (Click derecho): Abres el menu de estilo
-  - <-{(Click izquierdo): Cambias al anterior worksapce
-  - }->(Click izquierdo): Cambias al siguiente worksapce
+Para las iteraciones que se puede dar con el raton:  
+https://github.com/xaviermazon/polybar
 
 ## Repositorio oficial
 
