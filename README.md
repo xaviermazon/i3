@@ -11,6 +11,7 @@ Programas que usa el i3:
  - Picom 
 
 Tecla para gestionar i3: Mod4(Super/Windows)
+	                     Mod1(Alt izq)
 
 Atajos de teclados:
   - Cambiar entre espacios de trabajo: Mod4+[0..9]
@@ -36,6 +37,8 @@ Atajos de teclados:
   - Alternar division de ventanas: Mod4+e
   - Modo pila de ventanas: Mod4+s
   - Modo pestaña de ventanas: Mod4+w
+  - Cambias al siguiente workspace: Mod4+Tab
+  - Cambias al anterior workspace: Mod4+Shift+Tab
 
 []: Significa un rango de valores  
 0: Suele ser el numero 10  
@@ -44,6 +47,13 @@ Notas: Aquellos que tengan un teclado sin teclas de direcciones que usen la conf
   - j = abajo
   - k = arriba
   - l = derecha
+
+Interactividad con el ratón:
+  - (Click izquierdo): Abres el menu de energia del pc
+  - (Click izquierdo): Abres el menu de aplicaciones
+  - (Click derecho): Abres el menu de estilo
+  - <-{(Click izquierdo): Cambias al anterior worksapce
+  - }->(Click izquierdo): Cambias al siguiente worksapce
 
 ## Repositorio oficial
 
