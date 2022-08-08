@@ -157,8 +157,18 @@ bindsym $mod+Shift+r restart
 # exit i3 (logs you out of your X session)
 bindsym $mod+Shift+e exec "i3-nagbar -t warning -m 'You pressed the exit shortcut. Do you really want to exit i3? This will end your X session.' -B 'Yes, exit i3' 'i3-msg exit'"
 
-bindsym $mod+Shift+f exec ~/.local/bin/firefox/firefox-bin
 bindsym Mod1+Tab exec rofi -show window
+bindsym Control+Mod1+f exec dolphin
+bindsym Control+Mod1+b exec ~/.local/bin/firefox/firefox-bin
+bindsym Control+Mod1+t exec konsole
+# bindsym Control+Mod1+m exec app-de-gestor-de-correo
+bindsym Control+Mod1+e exec emacs -mm
+# bindsym Control+Mod1+d exec app-de-gestion-de-agenda-o-bullet-journal
+bindsym Control+Mod1+w exec nitrogen
+bindsym Control+Mod1+l exec "i3lock -c 000000"
+bindsym Control+Mod1+r exec reboot
+bindsym Control+Mod1+p exec poweroff
+bindsym $mod+Mod1+f exec ~/.local/bin/firefox/firefox-bin
 
 # resize window (you can also use the mouse for that)
 mode "resize" {
@@ -195,3 +205,4 @@ bindsym $mod+r mode "resize"
 exec_always --no-startup-id $HOME/.config/polybar/launch.sh --cuts
 exec_always --no-startup-id picom --experimental-backends --config $HOME/.config/i3/picom.conf &
 exec_always --no-startup-id systemctl --user start dunst
+exec_always --no-startup-id xautolock -detectsleep -time 5 -locker "i3lock -c 000000"
